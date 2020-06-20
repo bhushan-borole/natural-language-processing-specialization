@@ -1,3 +1,3 @@
-[](https://pbs.twimg.com/media/EauVU5ZU0AAos4o?format=jpg&name=4096x4096)
+![](https://github.com/bhushan-borole/natural-language-processing-specialization/blob/master/images/banner.jpg)
 
 # Natural Language Processing Specialization
